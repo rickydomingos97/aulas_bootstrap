@@ -9,19 +9,23 @@
      color: rgb(241, 241, 241);
  }
  .parceiros {
-    background-color: #58FAF4;
+    background-color: rgb(124, 194, 191);
     margin-block-start: -300px;
     padding-bottom: 600px;
     margin-bottom: 300px;
 }
- .parceiros#h3 {
-     padding: 100px;
+ #h3pardeiros {
+     padding: 200px;
  }
 .navbar {
     background-color: rgb(63, 194, 96);
   }
 .margin {
     padding-top: 100px;
+}
+
+.container {
+    margin-top: 100px;
 }
 #quemsomos {
     color: #ffffff;
