@@ -4,20 +4,25 @@
      background-color: rgb(81, 167, 243);
      margin-bottom: 300px;
  }
-
  .quem-somos h1 {
      padding: 100px;
      color: rgb(241, 241, 241);
  }
-
+ .parceiros {
+    background-color: #58FAF4;
+    margin-block-start: -300px;
+    padding-bottom: 600px;
+    margin-bottom: 300px;
+}
+ .parceiros#h3 {
+     padding: 100px;
+ }
 .navbar {
     background-color: rgb(63, 194, 96);
   }
-
 .margin {
-    padding-top: 20px;
+    padding-top: 100px;
 }
-
 #quemsomos {
     color: #ffffff;
 }
@@ -25,13 +30,9 @@ body {
     background-color: rgb(219, 219, 219);
     font-family: 'Poppins', sans-serif;
 }
-
 img#nosso-time{
     margin-top: 70px;
-
 }
-
-
 img#logo-nav {
     width: 250px;
 }
