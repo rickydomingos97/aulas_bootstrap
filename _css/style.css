@@ -10,10 +10,20 @@
     background-color: rgb(124, 194, 191);  
 }
 .navbar {
-    background-color: rgb(63, 194, 96);
-  }
+    background-color: rgb(84, 64, 138);
+}
 
-  .servicos {
+a {
+    color: #ffffff;
+    margin-right: 30px;
+}
+
+.nav-link hover {
+    transition: 1s;
+    color: crimson;
+}
+
+.servicos {
       background-color: rgb(144, 48, 235);
   }
 .margin {
