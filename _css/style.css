@@ -14,11 +14,10 @@ body {
     background-color: rgb(219, 219, 219);
 }
 
-img#nosso-time {
-    width: 500px;
-    padding: 50px;
-    border-radius: 60px;
+img#nosso-time{
+    margin: 40px;
 }
+
 
 img#logo-nav {
     width: 250px;
